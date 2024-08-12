@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Daniel Amayaenvbo
-- 👀 I’m interested in AI/Ml development and Full stack development 
-- 🌱 I’m currently learning how to use AI apps
-- 💞️ I’m looking to collaborate on Projects related to solving problems.
-- 📫 How to reach me doa29@drexel.edu
+- 👋 Hi, @doa29 and I am a Software Engineering major at Drexel University!
+- 👀 I'm interested in exploring how finance and technology can be utilized to create positive social impact and I am also interested in AI/Ml, Full stack development. 
+- 🌱 I’m currently learning Server-Side Development   
+- 💞️ I'm eager to collaborate on innovative projects that address pressing societal challenges and contribute to the greater good. I'm particularly interested in initiatives that leverage technology and finance to create sustainable, positive change in our communities.
+- 📫 How to reach me doa29@drexel.edu, www.linkedin.com/in/amayaenvbo
 - 😄 Pronouns: he/him
+- ⚡ Fun fact: I enjoy solving Math, playing Soccer and Reading.
 
 
 <!---
