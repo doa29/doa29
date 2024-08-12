@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Amayaenvbo
 - 👀 I’m interested in AI/Ml development and Full stack development 
 - 🌱 I’m currently learning how to use AI apps
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on Projects related to solving problems.
 - 📫 How to reach me doa29@drexel.edu
 - 😄 Pronouns: he/him
 
