@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Daniel (@doa29)
 
-I'm a **Software Engineering major at Drexel University** passionate about leveraging technology to drive positive social impact. I’m particularly interested in how software solutions can address some of society's most pressing challenges.
+I'm a **Software Engineering major at Drexel University** dedicated to creating technology that empowers every person and organization to achieve more. I’m particularly interested in using software to tackle significant social challenges and drive meaningful change.
 
 ## 👀 Interests
-- **Tech for Good:** I’m fascinated by projects that merge **technology and finance** to create sustainable and impactful change in communities.
-- **Server-Side Development:** Currently enhancing my skills in server-side technologies to build robust, scalable solutions.
+- **Technology for Positive Impact:** I’m excited about projects that leverage **technology and finance** to build sustainable, inclusive solutions for communities.
+- **Server-Side Development:** Currently honing my skills in server-side technologies to develop secure, scalable, and impactful solutions.
 
 ## 🌱 Learning Journey
 I'm actively exploring:
@@ -12,9 +12,9 @@ I'm actively exploring:
 - Applications of software in social impact, finance, and sustainability
 
 ## 💞️ Collaboration Goals
-Looking to collaborate on innovative projects that:
-- **Address real-world problems** and contribute to the greater good
-- **Incorporate financial technology** for sustainable, community-driven impact
+Eager to collaborate on projects that:
+- **Empower communities** and address real-world needs through innovative technology
+- **Integrate financial technology** to drive sustainable, community-centered impact
 
 ## 📫 Connect with Me
 - **Email:** doa29@drexel.edu
