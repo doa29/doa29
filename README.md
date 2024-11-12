@@ -4,11 +4,10 @@ I'm a **Software Engineering major at Drexel University** dedicated to creating 
 
 ## 👀 Interests
 - **Technology for Positive Impact:** I’m excited about projects that leverage **technology and finance** to build sustainable, inclusive solutions for communities.
-- **Server-Side Development:** Currently honing my skills in server-side technologies to develop secure, scalable, and impactful solutions.
+- **Server-Side Development:** Currently building my skills in server-side technologies to develop secure, scalable, and impactful solutions.
 
 ## 🌱 Learning Journey
 I'm actively exploring:
-- Server-side frameworks and best practices
 - Applications of software in social impact, finance, and sustainability
 
 ## 💞️ Collaboration Goals
