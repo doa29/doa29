@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Particle Network">
 </p>
 <p align="center" style="font-size: 50/%; font-style: italic;">
-  Programming and football—both require precision, creativity, and the ability to adapt under pressure! ⚽💻
+  Programming and football both require precision, creativity, and the ability to adapt under pressure! ⚽💻
 </p>
 
 ---
