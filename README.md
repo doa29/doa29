@@ -5,7 +5,7 @@
 
 - 🎓 **Software Engineering** @ <a href="https://drexel.edu/">Drexel University</a> 🏫  
 - 💻 **Software Development Intern** @ Drexel’s Charles D. School of Entrepreneurship (July 2024 – Nov 2024)  
-- 🌟 **Past Experience:** AI Fellow @ Headstarter AI | Project Mentor @ Drexel Society of AI  
+- 🌟 **Past Experience:** SWE/ AI Fellow @ Headstarter AI | Project Mentor @ Drexel Society of AI  
 - 🔍 **Interests:** AI & ML, FinTech, Sustainability, Social Good, Full-Stack Development  
 - 🚀 **Projects:** Built AI-powered applications integrating OpenAI, Pinecone, and Stripe API  
 
